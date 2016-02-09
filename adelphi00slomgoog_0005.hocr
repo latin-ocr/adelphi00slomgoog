@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "adelphi00slomgoog_0005.png"; bbox 0 0 2646 3937; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 759 283 1682 392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 759 283 1682 392">
+     <span class='ocr_line' id='line_1_1' title="bbox 759 283 1682 392; baseline 0.004 -35"><span class='ocrx_word' id='word_1_1' title='bbox 759 286 1105 392; x_wconf 58' lang='lat' dir='ltr'><strong>&amp;2425me</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1127 363 1133 370; x_wconf 61' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 1167 283 1385 377; x_wconf 62' lang='grc' dir='ltr'><strong>φησι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1452 286 1682 372; x_wconf 65' lang='lat' dir='ltr'><strong>§eries</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 770 1626 1652 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 770 1626 1652 1702">
+     <span class='ocr_line' id='line_1_2' title="bbox 770 1626 1652 1702; baseline -0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 770 1628 846 1702; x_wconf 94' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 955 1626 1652 1702; x_wconf 89' lang='lat' dir='ltr'><strong>TERENTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 866 1853 1564 1948">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 866 1853 1564 1948">
+     <span class='ocr_line' id='line_1_3' title="bbox 866 1853 1564 1948; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 866 1853 1564 1948; x_wconf 83' lang='lat' dir='ltr'><strong>ADELPHI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1010 2166 1434 2221">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1010 2166 1434 2221">
+     <span class='ocr_line' id='line_1_4' title="bbox 1010 2166 1434 2221; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1010 2166 1434 2221; x_wconf 82' lang='lat' dir='ltr'><em>SLOMAN</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
